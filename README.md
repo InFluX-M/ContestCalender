@@ -35,7 +35,7 @@ This project fetches upcoming programming contests from **Atcoder** and **Codefo
 1. Clone this repository in home:
    ```bash
    https://github.com/InFluX-M/ContestCalendarSyncer.git
-   cd contest-calendar-syncer
+   cd ContestCalendarSyncer
    ```
    
 2. Install dependencies:
