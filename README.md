@@ -34,7 +34,7 @@ This project fetches upcoming programming contests from **Atcoder** and **Codefo
 
 1. Clone this repository in home:
    ```bash
-   git clone https://github.com/yourusername/contest-calendar-syncer.git
+   https://github.com/InFluX-M/ContestCalendarSyncer.git
    cd contest-calendar-syncer
    ```
    
